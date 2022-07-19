@@ -1,4 +1,4 @@
-# ANOVA=Analysis of variance
+# ANOVA - Analysis of variance
 ## What is ANONA Test?
 An Analysis of variance-ANOVA is a test that is used to test whether there exist statistically significant difference between the mean values of more than two groups.
 ## Assumptions for the ANOVA hypothesis test
