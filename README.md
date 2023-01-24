@@ -14,7 +14,7 @@ H₁: Not all μᵢ’s are equal, where i = 1, 2, 3, …, c.
 
 Level of significance = α
 
-### Given a soil dataset , we want to test where there exist statistically significant association between soil pH value, Depth and contour
+### Given a soil dataset , we want to test whether there exist statistically significant association between soil pH value, Depth and contour
 ![1](https://user-images.githubusercontent.com/107842949/179838346-94d33e97-9fca-49ba-bda5-98079032fe07.JPG)
 ## Cleaning the dataset
 Check if there exist nul values
