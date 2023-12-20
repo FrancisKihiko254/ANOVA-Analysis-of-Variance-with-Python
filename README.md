@@ -22,8 +22,8 @@ Check if there exist nul values
 ## Relationship Between Depth, Contour and pH Value
 ![3](https://user-images.githubusercontent.com/107842949/179838809-6d939703-bd7a-4af9-8059-a8a3ce915968.JPG)
 ## Conclusion
-In the case of Depth, the p-value is smaller than the critical value of 0.05.Therefore we can conclude that there is statisticaly significant association of Depth on the Soil pH value.
+In the case of Depth, the p-value is smaller than the critical value of 0.05.Therefore we can conclude that there is statisticaly significant association between the Depth on the Soil and the pH value.
 
-In the case of Contour, the p value is greater than the critical value of 0.05. Therefore, we can conclude that there is no statisticaly significant association of Contour on the Soil pH value.
+In the case of Contour, the p value is greater than the critical value of 0.05. Therefore, we can conclude that there is no statisticaly significant association between the Contour and the pH value.
 
 In the case of intercept of Depth and Contour,the p value is greater than the critical value of 0.05. Therefore, we can conclude that there is no statisticaly significant association between intercept of Depth and Contour on the Soil pH value.
